@@ -1,0 +1,14 @@
+2015-12-22 23:18:08.781 [main] INFO  OrderActions - INITIALIZING: Signing out, if needed.
+
+2015-12-22 23:18:08.912 [main] INFO  HomePage - Navigating to Amazon.com: http://www.amazon.com
+2015-12-22 23:18:08.941 [main] INFO  HomePage - Selecting [YOUR_ACCOUNT] in navigation bar.
+2015-12-22 23:18:13.491 [main] INFO  HomePage - Navigating to the SIGNIN_PAGE.
+
+2015-12-22 23:18:13.491 [main] INFO  SignInPage - Entering username: amzn.tester23@gmail.com
+2015-12-22 23:18:15.311 [main] INFO  SignInPage - Entering password.
+2015-12-22 23:18:16.308 [main] INFO  SignInPage - Clicking the [SIGN_IN] button.
+
+2015-12-22 23:18:20.031 [main] INFO  OrderActions - INITIALIZING: Deleting all Items in Cart.
+
+2015-12-22 23:18:22.734 [main] INFO  OrderActions - Starting process to load info for HITCHHIKERS_GUIDE:
+2015-12-22 23:18:22.830 [main] INFO  ProductPage - Navigated to http://www.amazon.com/gp/product/0345391802

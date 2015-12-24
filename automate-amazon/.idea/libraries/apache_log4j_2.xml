@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="apache-log4j-2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-1.2-api/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-1.2-api/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-api/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-api/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-flume-ng/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-flume-ng/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-iostreams/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-iostreams/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-jcl/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-jcl/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-jmx-gui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-jul/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-jul/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-liquibase/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-liquibase/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-nosql/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-nosql/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-perf/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-samples/configuration/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-samples/configuration/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-samples/flume-common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-samples/loggerProperties/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-samples/loggerProperties/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-slf4j-impl/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-slf4j-impl/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-taglib/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-taglib/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-to-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-to-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-web/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-log4j-2.5-src/log4j-web/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

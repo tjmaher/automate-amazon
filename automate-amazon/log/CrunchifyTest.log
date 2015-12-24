@@ -1,0 +1,4 @@
+2015-12-22 21:09:08,383 [main] INFO  HomePage:24 - HOME_PAGE: Navigating to Amazon.com: http://www.amazon.com
+2015-12-22 21:09:08,413 [main] INFO  HomePage:29 - HOME_PAGE: Selecting [YOUR_ACCOUNT] in navigation bar.
+2015-12-22 21:09:13,504 [main] INFO  HomePage:31 - HOME_PAGE: Navigating to the SIGNIN_PAGE.
+
