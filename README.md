@@ -1,6 +1,6 @@
 # automate-amazon
 <i>December 2015 - January 2016</i><br>
-<p>A practice automation test framework for Amazon.com, based on the knowledge gained as a first year automation engieer at Fitbit.com.</p>
+<p>A practice automation test framework for Amazon.com, based on the knowledge gained as a first year automation engineer at Fitbit-Boston.</p>
 <p><b>Problems:</b> I wasn't able to set up tests to run in parallel. I didn't initially build that into DriverUtils, and haven't been able to figure this part out.</p>
 <b>Blog: Adventures in Automation</b>
 <i>A sample project in order to practice designing automated tests.&nbsp;</i><br />
@@ -39,10 +39,10 @@ The directory structure:
 <li>pages</li>
 <ul>
 <li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pages/HomePage.java">HomePage</a></li>
-<li>SignInPage</li>
-<li>ProductPage</li>
-<li>ShoppingCartPage</li>
-<li>ShoppingCartReviewPage</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pages/SignInPage.java">SignInPage</a></li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pages/ProductPage.java">ProductPage</a></li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pages/ShoppingCartPage.java">ShoppingCartPage</a></li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pages/ShoppingCartReviewPage.java">ShoppingCartReviewPage</a></li>
 </ul>
 <li>pojo</li>
 <ul>
