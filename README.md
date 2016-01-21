@@ -1,7 +1,8 @@
 # automate-amazon
-December 2015 - January 2016<br>
-<p>A practice automation test framework for Amazon.com</p>
-<h3>Blog: Adventures in Automation
+<i>December 2015 - January 2016</i><br>
+<p>A practice automation test framework for Amazon.com, based on the knowledge gained as a first year automation engieer at Fitbit.com.</p>
+<p><b>Problems:</b> I wasn't able to set up tests to run in parallel. I didn't initially build that into DriverUtils, and haven't been able to figure this part out.</p>
+<b>Blog: Adventures in Automation</b>
 <i>A sample project in order to practice designing automated tests.&nbsp;</i><br />
 <blockquote class="tr_bq">
 Automate Amazon:<br />
@@ -17,3 +18,47 @@ Automate Amazon:<br />
 <li>Part Eight:&nbsp;<a href="http://adventuresinautomation.blogspot.com/2016/01/automate-amazon-sketch-of-possible-data.html" target="_blank">Data Driven Tests with TestNG XML</a></li>
 </ul>
 </blockquote>
+
+The directory structure:
+<br />
+<b>src/test/java</b><br />
+<ul>
+<li>actions</li>
+<ul>
+<li>OrderActions</li>
+</ul>
+<li>base</li>
+<ul>
+<li>LoadProperties</li>
+</ul>
+<li>enums</li>
+<ul>
+<li>Products</li>
+<li>Url</li>
+</ul>
+<li>pages</li>
+<ul>
+<li>HomePage</li>
+<li>SignInPage</li>
+<li>ProductPage</li>
+<li>ShoppingCartPage</li>
+<li>ShoppingCartReviewPage</li>
+</ul>
+<li>pojo</li>
+<ul>
+<li>Book</li>
+</ul>
+<li>properties</li>
+<ul>
+<li>user.properties</li>
+</ul>
+<li>testcases</li>
+<ul>
+<li>PurchaseOrderTest</li>
+</ul>
+<li>utils</li>
+<ul>
+<li>CommonUtils</li>
+<li>DriverUtils</li>
+</ul>
+</ul>
