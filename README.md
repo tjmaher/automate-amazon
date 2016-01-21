@@ -50,15 +50,15 @@ The directory structure:
 </ul>
 <li>properties</li>
 <ul>
-<li>user.properties</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/properties/user.properties">user.properties</a></li>
 </ul>
 <li>testcases</li>
 <ul>
-<li>PurchaseOrderTest</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/testcases/PurchaseOrderTest.java">PurchaseOrderTest</a></li>
 </ul>
 <li>utils</li>
 <ul>
-<li>CommonUtils</li>
-<li>DriverUtils</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/utils/CommonUtils.java">CommonUtils</a></li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/utils/DriverUtils.java">DriverUtils</a></li>
 </ul>
 </ul>
