@@ -1,4 +1,7 @@
 # automate-amazon
+December 2015 - January 2016<br>
+<p>A practice automation test framework for Amazon.com</p>
+<h3>Blog: Adventures in Automation
 <i>A sample project in order to practice designing automated tests.&nbsp;</i><br />
 <blockquote class="tr_bq">
 Automate Amazon:<br />
