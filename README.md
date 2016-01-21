@@ -25,20 +25,20 @@ The directory structure:
 <ul>
 <li>actions</li>
 <ul>
-<li>OrderActions</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/actions/OrderActions.java">OrderActions</a></li>
 </ul>
-<li>base</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/tree/master/automate-amazon/src/test/java/base">base</a></li>
 <ul>
-<li>LoadProperties</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/base/LoadProperties.java">LoadProperties</a></li>
 </ul>
 <li>enums</li>
 <ul>
-<li>Products</li>
-<li>Url</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/enums/Products.java">Products</a></li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/enums/Url.java">Url</a></li>
 </ul>
 <li>pages</li>
 <ul>
-<li>HomePage</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pages/HomePage.java">HomePage</a></li>
 <li>SignInPage</li>
 <li>ProductPage</li>
 <li>ShoppingCartPage</li>
@@ -46,7 +46,7 @@ The directory structure:
 </ul>
 <li>pojo</li>
 <ul>
-<li>Book</li>
+<li><a href="https://github.com/tjmaher/automate-amazon/blob/master/automate-amazon/src/test/java/pojo/Book.java">Book</a></li>
 </ul>
 <li>properties</li>
 <ul>
